@@ -1,2 +1,2 @@
-# Virtual_Keyboard
-CAU_EE Final Project
+# Virtual-Keyboard
+This repository is about 2022 CAU Electronic Engineering major Final project
